@@ -1,5 +1,1 @@
-Hello I'm Taylor. I'm currently not that great at anything programing related, but I'm trying to get better. :)
-<!---
-taylor-5724/taylor-5724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello I'm Taylor. I'm 17 and have some experience fucking around with code. I started my programming journey fucking around with Arduinos which was a great place to start. Now I've written a script or two in VBA as well as my music downloader script which is written in python. My main focus is on embeded development and although my repos don't show it yet I have a bit of knowledge in that field.
